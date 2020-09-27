@@ -92,3 +92,4 @@ for index in ${!Triplet[@]}
 do
 	echo "$index: ${Triplet[$index]},"
 done
+echo " "
